@@ -2,6 +2,7 @@ let obj={
     name:"Hassan",
     age:23,
     course:"IT,dsa",
-    course:"IT,oop"
+    course:"IT,oop",
+    year:2024
 
 }
